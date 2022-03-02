@@ -1,7 +1,6 @@
 public class ArithmeticOperators {
     public static void main(String[] args) {
         System.out.println("Avem numerele 4 si 5.");
-        // Adunare
         int sum = 5 + 4;
         System.out.println("Suma este: " +sum);
 
